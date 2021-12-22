@@ -27,7 +27,7 @@ namespace Practise
         {
             Sample s = new Sample();
             Console.WriteLine(s.Add(10,5));
-            Console.WriteLine(s.Sub(10,5));
+            Console.WriteLine(s.Sub(10,6));
             Console.ReadKey();
         }
 
