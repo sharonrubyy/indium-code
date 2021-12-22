@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace Practise
 {
     public class Sample
-    {
+    {//yes
 
         public int Add(int a,int b)
         {
